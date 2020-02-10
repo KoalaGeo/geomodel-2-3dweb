@@ -1,0 +1,1 @@
+The resolution of these exports is higher than the resolution that the model was created at.
