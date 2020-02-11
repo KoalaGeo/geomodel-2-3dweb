@@ -12,7 +12,7 @@ if 'COLLADA2GLTF_BIN' in os.environ:
 elif 'HOME' in os.environ:
     COLLADA2GLTF_BIN = os.path.join(os.environ['HOME'], 'github', 'COLLADA2GLTF', 'build')
 else:
-    COLLADA2GLTF_BIN = "."
+    COLLADA2GLTF_BIN = "./Home/Documents/gitkraken/COLLADA2GLTF/COLLADA2GLTF-bin" #Enter Local Directory here? 
 
 REMOVE_COLLADA = True
 ''' Removes COLLADA file after conversion '''
